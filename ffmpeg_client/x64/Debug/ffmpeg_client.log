@@ -1,0 +1,3 @@
+﻿  ffmpeg_client.cpp
+e:\visual studio projects\ffmpeg_client\ffmpeg_client\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  ffmpeg_client.vcxproj -> E:\Visual Studio Projects\ffmpeg_client\x64\Debug\ffmpeg_client.exe
